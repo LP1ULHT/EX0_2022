@@ -12,7 +12,7 @@ Este exercício serve três objectivos principais:
 Na resolução destes exercícios deve ser utilizada a Linguagem de Programação C. Para além da correta implementação dos requisitos, tenha em conta os seguintes aspetos:
 - O código apresentado deve ser bem indentado. 
 - O código deve compilar sem erros ou *warnings* utilizando o *gcc* com as seguintes flags:
-- `-g -Wvla -Wall -Wpedantic -Wno-unused-result -Wdeclaration-after-statement`
+- `-g -Wvla -Wall -Wpedantic -Wdeclaration-after-statement`
 - Tenha em atenção os nomes dados das variáveis, para que sejam indicadores daquilo que as mesmas vão conter.
 - O trabalho deve ser desenvolvido e submetido de forma individual.
 
