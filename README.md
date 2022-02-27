@@ -1,6 +1,6 @@
 **UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS**
 
-*Linguagens de Programação I *
+*Linguagens de Programação I*
 
 # Exercício 0
 
@@ -15,6 +15,8 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 - `-g -Wvla -Wall -Wpedantic -Wextra -Wdeclaration-after-statement`
 - Tenha em atenção os nomes dados das variáveis, para que sejam indicadores daquilo que as mesmas vão conter.
 - O trabalho deve ser desenvolvido e submetido de forma individual.
+
+## Entrega
 
 Este exercício deverá ser submetido na plataforma Pandora até às 23:59 do dia 6/3/2022 e será contabilizado para a nota final da unidade curricular de acordo com os critérios disponibilizados na página da disciplina, concretamente nos slides da primeira aula.
 
@@ -32,7 +34,7 @@ Este exercício deverá ser submetido na plataforma Pandora até às 23:59 do di
 
 5. Espere algum tempo (até 24h) para que a conta seja activada. Só depois disso poderá começar a submeter.
 
-## Exercício
+## Descrição do exercício
 
 Crie um programa que pede um angulo `alpha` (em graus) ao utilizador e em seguida calcula o resultado da função trigonométrica `sen(alpha)` utilizando a fórmula da expansão em série de Taylor de quarta ordem. I.e.:
 
