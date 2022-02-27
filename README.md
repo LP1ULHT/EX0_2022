@@ -39,10 +39,15 @@ Note que, na fórmula, `x` está em radianos, pelo que primeiro deverá converte
 
 ### Detalhes de implementação
 Ao iniciar, o programa imprime a mensagem exacta:
+
 ```Por favor indique um valor em graus\n```
+
 O valor introduzido pelo utilizador deverá ser gravado numa variável do tipo `float`. Em seguida o programa deverá efectuar os cálculos necessários. Se necessitar de utilizar variáveis auxiliares, estas devem ser do tipo `double` de forma que não perca precisão com os cálculos intermédios.
+
 O resultado deverá ser apresentado com a seguinte mensagem:
+
 ```Resultado = valor\n```
+
 E em seguida o programa deverá terminar com o código de retorno 0.
 O valor do resultado deverá ser apresentado com duas casas decimais.
 
