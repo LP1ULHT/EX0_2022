@@ -27,32 +27,12 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 
 4.	Nesta fase deverá contactar o seu professor das práticas para que a sua conta seja activada. Para isso deverá enviar um email informando de que já completou o seu registo na plataforma. Deverá indicar o seu número de aluno para que seja verificado.
 
+5. Espere algum tempo (até 24h) para que a conta seja activada. Só depois disso poderá começar a submeter.
 
+## Exercício
 
+Crie um programa que pede um angulo `alpha` (em graus) ao utilizador e em seguida calcula o resultado da função trigonométrica `sen(alpha)` utilizando a fórmula da expansão em série de Taylor de terceira ordem. I.e.:
+<img src="https://render.githubusercontent.com/render/math?math=sin(x) \approx x - \frac{x^3}{3!} + \frac{x^5}{5!}">
 
-[comment]5.	Escreva o serguinte programa num ficheiro .c.
-[comment]```
-[comment]#include <stdio.h>
+Note que, na fórmula, `x` está em radianos, pelo que primeiro deverá converter de graus para radianos. Para isso definir uma constante com o valor de `PI=3.14159`. Resolva o problema sem utilizar a biblioteca math.h. 
 
-[comment]int main() 
-[comment]{
-[comment]	int numero;
-[comment]	int resultado;
-[comment]	
-[comment]	print("Insira um numero\n");
-[comment]	scanf("%d", &numero)
-[comment]
-[comment]	resultado = numero * 2;
-[comment]    
-[comment]	print("Numero = %d, Numero*3 = %d\", numero, resultado);
-[comment]
-[comment]}
-[comment]```
-Sem alterar absolutamente nada, submeta o ficheiro no PANDORA no contest: IC2021EX0. **O Objectivo deste exercício não é que o aluno obtenha classificação máxima à primeira submissão. O objectivo é que o aluno submeta o código com erros e depois os corrija. Desta forma estará a familiarizar-se com a plataforma**
-
-6.	Verifique a classificação obtida e os erros de compilação reportados pelo PANDORA. Para isso clique na cruz vermelha.
-
-7.	Corrija os erros de compilação e submeta de novo e verifique a nota obtida.
-
-8.	O programa deverá ler um número e imprimir esse número multiplicado por 3. Verifique os resultados dos testes e observe toda a informação disponibilizada. Utilizando essa informação, altere o código e submeta de novo até obter a classificação de 20 Valores.
---->
