@@ -32,6 +32,7 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 ## Exercício
 
 Crie um programa que pede um angulo `alpha` (em graus) ao utilizador e em seguida calcula o resultado da função trigonométrica `sen(alpha)` utilizando a fórmula da expansão em série de Taylor de terceira ordem. I.e.:
+
 <img src="https://render.githubusercontent.com/render/math?math=sin(x) \approx x - \frac{x^3}{3!} + \frac{x^5}{5!}">
 
 Note que, na fórmula, `x` está em radianos, pelo que primeiro deverá converter de graus para radianos. Para isso definir uma constante com o valor de `PI=3.14159`. Resolva o problema sem utilizar a biblioteca math.h. 
