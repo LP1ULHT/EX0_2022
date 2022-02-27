@@ -51,6 +51,13 @@ O resultado deverá ser apresentado com a seguinte mensagem:
 E em seguida o programa deverá terminar com o código de retorno 0.
 O valor do resultado deverá ser apresentado com duas casas decimais.
 
+Exemplo
+```
+Por favor indique um valor em graus
+10
+Resultado = 0.17
+```
+
 
 
 
