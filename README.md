@@ -15,6 +15,7 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 - `-g -Wvla -Wall -Wpedantic -Wextra -Wdeclaration-after-statement`
 - Tenha em atenção os nomes dados das variáveis, para que sejam indicadores daquilo que as mesmas vão conter.
 - O trabalho deve ser desenvolvido e submetido de forma individual.
+- Atenção que a flag de compilação -Wdeclaration-after-statement obriga a que as variáveis sejam declaradas no principio das funções. Ou seja, não pode haver variáveis declaradas a meio das funções.
 
 ## Entrega
 
