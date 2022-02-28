@@ -65,6 +65,17 @@ Resultado = 0.17
 ```
 
 
+## Submissão no pandora
+
+Para submeter o trabalho, seleccione o ficheiro source code (ficheiro .c).
+
+Caso obtenha um erro de compilação a seguinte informação será mostrada
+
+![](compilacao.png)
+
+
+Se pressionar o botão que diz `show`, conseguirá visualizar a mensagem retornada pelo compilador.
+
 ## Honestidade Académica
 
 Nesta disciplina, espera-se que cada aluno siga os mais altos padrões de honestidade académica. Trabalhos que sejam identificados como cópias serão anulados e os alunos envolvidos terão nota zero - quer tenham copiado, quer tenham deixado copiar.
