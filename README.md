@@ -71,7 +71,7 @@ Para submeter o trabalho, seleccione o ficheiro source code (ficheiro .c).
 
 Caso obtenha um erro de compilação a seguinte informação será mostrada
 
-![](compilacao.png)
+![](compilation_fail.png)
 
 
 Se pressionar o botão que diz `show`, conseguirá visualizar a mensagem retornada pelo compilador.
