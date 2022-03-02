@@ -37,7 +37,7 @@ Este exercício deverá ser submetido na plataforma Pandora até às 23:59 do di
 
 ## Descrição do exercício
 
-Crie um programa que pede um angulo `alpha` (em graus) ao utilizador e em seguida calcula o resultado da função trigonométrica `sen(alpha)` utilizando a fórmula da expansão em série de Taylor de quarta ordem. I.e.:
+Crie um programa que pede um angulo `alpha` (em graus) ao utilizador e em seguida calcula o resultado da função trigonométrica `sen(alpha)` utilizando a fórmula da expansão em série de Taylor de terceira ordem. I.e.:
 
 ![](taylor.png)
 
